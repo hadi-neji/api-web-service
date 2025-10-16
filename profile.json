@@ -1,0 +1,27 @@
+{
+  "user": {
+    "name": "Léandro Guerin",
+    "email": "leandro.guerin@example.com",
+    "gender": "male",
+    "location": "Rueil-Malmaison, France",
+    "picture": "https://randomuser.me/api/portraits/men/91.jpg"
+  },
+  "phone_number": "+33 7 52 91 62 29",
+  "iban": "FR64374007008266W8Q827IH146",
+  "credit_card": {
+    "card_number": "3682267898417617",
+    "card_type": "VISA",
+    "expiration_date": "12/2026",
+    "cvv": "915"
+  },
+  "random_name": "Nylah",
+  "pet": "Cat : The Maine Coon cat is America's only natural breed of domestic feline. It is 4 to 5 times larger than the Singapura, the smallest breed of cat.",
+  "quote": {
+    "content": "Success is built sequentially. It's one thing at a time.",
+    "author": "Gary Keller"
+  },
+  "joke": {
+    "type": "Programming",
+    "content": "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+  }
+}
